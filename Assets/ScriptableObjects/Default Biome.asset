@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6e4452ca2ab43c4abc88de7380e1b59, type: 3}
+  m_Name: Default Biome
+  m_EditorClassIdentifier: 
+  BiomeName: Default
+  Lodes:
+  - {fileID: 11400000, guid: 3c39064434c6ce04eb0663bcd80470e2, type: 2}
+  - {fileID: 11400000, guid: 6188fe39785bb954c9d576d7f31e5b4a, type: 2}
+  - {fileID: 11400000, guid: 0b3179708938f8f4fafa4983f5c4e2c7, type: 2}
+  - {fileID: 11400000, guid: a53a3ceaf647ce04aa66e32573daae5c, type: 2}
+  - {fileID: 11400000, guid: 24963b150f79db8429fd4e36a0cc04b3, type: 2}
+  - {fileID: 11400000, guid: 379d98b0ba9e1de4b96abf5b86cdc800, type: 2}
+  - {fileID: 11400000, guid: 24963b150f79db8429fd4e36a0cc04b3, type: 2}
